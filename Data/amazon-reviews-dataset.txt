@@ -1,0 +1,6 @@
+# Dataset files
+data/
+*.zip
+Easy downloadable
+Dataset source link:
+https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
